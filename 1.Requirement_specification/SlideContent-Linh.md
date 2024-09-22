@@ -8,7 +8,8 @@ Các loại máy có thể tích hợp thiết bị Iot, Tích hợp cảm biế
 Các Robot hiện có trong nhà máy 
 Máy CNC
 Hệ thống dây chuyền lắp ráp tự động 
-**Video**
+
+**Video**:
 Em nghĩ nên làm UI demo về hệ thống của mình và cách tích hợp một thiết bị Iot vào một cái máy như nào, dự đoán chi phí ra sao cần cụ thể hơn:
 
 imageforSlide
