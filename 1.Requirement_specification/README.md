@@ -1,3 +1,21 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [BA thu thập yêu cầu](#ba-thu-thập-yêu-cầu)
+  - [Các bước thực hiện](#các-bước-thực-hiện)
+  - [Tìm hiểu về ngành và luồng làm việc hiện tại của DENSO](#tìm-hiểu-về-ngành-và-luồng-làm-việc-hiện-tại-của-denso)
+    - [Quy trình sản xuất của DENSO](#quy-trình-sản-xuất-của-denso)
+    - [Xu hướng công nghệ trong ngành](#xu-hướng-công-nghệ-trong-ngành)
+  - [Chuẩn bị trước khi tham quan](#chuẩn-bị-trước-khi-tham-quan)
+    - [Liệt kê các painpoint có thể có](#liệt-kê-các-painpoint-có-thể-có)
+    - [Giải pháp dự kiến đề xuất](#giải-pháp-dự-kiến-đề-xuất)
+    - [Chuẩn bị các câu hỏi](#chuẩn-bị-các-câu-hỏi)
+  - [Thu hoạch khi tham quan nhà máy](#thu-hoạch-khi-tham-quan-nhà-máy)
+    - [Liệt kê các painpoint thực tế](#liệt-kê-các-painpoint-thực-tế)
+    - [Câu trả lời cho các câu hỏi đã chuẩn bị](#câu-trả-lời-cho-các-câu-hỏi-đã-chuẩn-bị)
+  - [Xác định rõ ràng painpoint cần nhắm đến](#xác-định-rõ-ràng-painpoint-cần-nhắm-đến)
+  - [Xác định các tính năng cần có của project](#xác-định-các-tính-năng-cần-có-của-project)
+  - [Xác định các lợi ích mà project có thể cung cấp](#xác-định-các-lợi-ích-mà-project-có-thể-cung-cấp)
+
 # BA thu thập yêu cầu
 
 ## Các bước thực hiện
