@@ -124,7 +124,7 @@ Các painpoint thực tế có thể nhìn thấy:
 
 1. Các máy trong nhà máy đang hoạt động độc lập, tất cả các hoạt động monitor là do con người, đội vô địch năm ngoái nhìn ra điều này và làm 1 AI chụp ảnh đồng hồ rồi tập hợp số liệu, tuy vậy cảm giác vẫn không ổn với các máy không có đồng hồ, liệu có thể số hóa máy móc không?
 2. Độ sạch của linh kiện chưa được quản lý, chỉ có thể quản lý được độ sạch của nhà máy
-3. Về phần bảo trì máy móc, khi xảy ra bất thường, các thợ bảo trì vẫn phải đến tận nơi để bảo trì máy móc, dù là các lỗi rất nhỏ
+3. Về phần bảo trì máy móc, khi xảy ra bất thường, các thợ bảo trì vẫn phải đến tận nơi để bảo trì máy móc, dù là các lỗi rất nhỏ và làm ảnh hưởng đến toàn bộ dây chuyền của nhà máy, liệu có cách nào cảnh báo trước được các lỗi này và sửa trước khi phải dừng dây chuyền hay không?
 4. (PAINPOINT của tổng giám đốc) Nhà máy là nhà máy làm theo order của khách hàng, trong tình trạng thế giới bất thường hiện nay, có cách nào để dự đoán được số order tiếp theo hay không :)))) 
 ### Câu trả lời cho các câu hỏi đã chuẩn bị
 `Về quy trình sản xuất và quản lý`
@@ -191,7 +191,12 @@ Các painpoint thực tế có thể nhìn thấy:
 - Chưa hỏi và không định hỏi 
 
 ## Xác định rõ ràng painpoint cần nhắm đến
-
-## Xác định các lợi ích mà project có thể cung cấp
+Nhóm sẽ giải quyết vấn đề bảo trì máy móc sớm, trước khi việc dừng ngắn hoặc dừng dài xảy ra
 
 ## Xác định các tính năng cần có của project
+Tính năng cần có bao gồm:
+- Có thể theo dõi thông số của các máy trong thời gian thực
+- Đưa ra cảnh báo bảo trì nếu cảm thấy thông số có khả năng đạt đến ngưỡng bất thường
+
+## Xác định các lợi ích mà project có thể cung cấp
+- Giảm thời gian phải dừng ngắn, dừng dài, gây ảnh hưởng đến toàn bộ quy trình
