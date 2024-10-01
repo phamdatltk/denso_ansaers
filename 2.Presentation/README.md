@@ -11,6 +11,7 @@ Mục tiêu khi đi tour:
 - Hỏi sâu về quy trình dừng ngắn, dừng dài 
 - Các lỗi máy móc hay gặp phải 
 - Xin dữ liệu của máy móc 
+  
 Kết quả đạt được:
 - Dữ liệu của một máy móc có rất rất nhiều trường, tuy vậy chưa có được dữ liệu luôn 
 - Có 2 loại máy trong nhà máy:
