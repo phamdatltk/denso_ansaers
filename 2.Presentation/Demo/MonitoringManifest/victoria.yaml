@@ -41,4 +41,4 @@ spec:
     - name: http
       port: 8428
       targetPort: 8428
-  type: ClusterIP
+  type: NodePort
